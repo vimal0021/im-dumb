@@ -1,4 +1,4 @@
 def add(a, b):
-    result = a + b
+    s = a + b
     print ("Sum is ",result)
-    return result
+    return s
